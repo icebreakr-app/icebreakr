@@ -15,5 +15,5 @@ body {
 }
 
 a {
-  @apply text-cyan hover:text-cyan-300 transition-colors;
+  @apply text-cyan hover:opacity-80 transition-colors;
 }
